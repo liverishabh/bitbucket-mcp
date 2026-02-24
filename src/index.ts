@@ -2514,7 +2514,6 @@ class BitbucketServer {
             name: targetBranch,
           },
         },
-        close_source_branch: true,
       };
 
       // Only include reviewers field if there are reviewers to add
